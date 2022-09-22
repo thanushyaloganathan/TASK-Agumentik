@@ -1,0 +1,41 @@
+<html>
+<head>
+<style>
+body
+{
+    margin:0;
+    font-family:Arial,Helvetica,sans-serif;
+}
+.sk-image
+{
+    background-color:navy;
+}
+.sk-text{
+    text-align:center;
+    top:50%
+    transform:translate(-50%,-50%);
+    color:white;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 5px;
+  width: 700px;
+  object-fit: cover;
+  object-position: 100% 100%;
+}
+
+</style>
+</head>
+<body>
+    <div class="sk-image">
+        <div class="sk-text">
+            <h1 style="font-size:100px">ЭколроM
+                CEPBиC
+            </h1>
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/afd534141435443.625420a8ac548.png"  style="width:700px"><br>
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/bba0f4141435443.625420a8ae87b.png"  style="width:700px">
+        </div>
+    </div>
+</body>
+</html>
